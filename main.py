@@ -18,8 +18,17 @@ def get_all_page_links(soup):
     time.sleep(2)
 
     pagination_links = soup.select("ul.pagination li a")
-
-    links = [baseUrl + a["href"] for a in pagination_links]
+    
+    if pagination_links:
+        first_link = pagination_links[0]['href']
+        
+        if '?' in first_link:
+            base_url = first_link.rsplit('=', 1)[0] + '='
+        else:
+            base_url = first_link.rsplit('/', 1)[0] + '/'
+        expanded_links = [f"{base_url}{page}" for page in range(1, 51)]
+       
+    links = [baseUrl + a for a in expanded_links]
 
     return links
 
@@ -76,6 +85,6 @@ for link in links[:-1]:
 
 print(len(raw_data))
 
-output_file = 'data/estate_data_lagos_rental.csv'
+output_file = 'data/estate_data_lagos_sale.csv'
 fieldnames = ["title", "price", "property type", "location", "size", "status", "type", "date"]
 utils.save_to_csv(raw_data, output_file, fieldnames)

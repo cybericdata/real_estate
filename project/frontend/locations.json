@@ -1,0 +1,2258 @@
+[
+    {
+        "location":"Jahi, Abuja",
+        "location_code":266
+    },
+    {
+        "location":"Asokoro, Abuja",
+        "location_code":64
+    },
+    {
+        "location":"Karu, Abuja",
+        "location_code":283
+    },
+    {
+        "location":"Lagos State, Ajah",
+        "location_code":308
+    },
+    {
+        "location":"Lekki, Ikate-Elegushi",
+        "location_code":349
+    },
+    {
+        "location":"Lagos State, Yaba",
+        "location_code":343
+    },
+    {
+        "location":"Ikoyi, Old Ikoyi",
+        "location_code":239
+    },
+    {
+        "location":"Maitama, Abuja",
+        "location_code":371
+    },
+    {
+        "location":"Katampe, Abuja",
+        "location_code":284
+    },
+    {
+        "location":"Wuse 2, Abuja",
+        "location_code":541
+    },
+    {
+        "location":"Lekki, Lekki Phase 1",
+        "location_code":357
+    },
+    {
+        "location":"Maryland, Shonibare Estate",
+        "location_code":377
+    },
+    {
+        "location":"Ajah, Sangotedo",
+        "location_code":26
+    },
+    {
+        "location":"Lekki, Ikate",
+        "location_code":348
+    },
+    {
+        "location":"Anambra State, Awka",
+        "location_code":46
+    },
+    {
+        "location":"Lugbe District, FHA",
+        "location_code":365
+    },
+    {
+        "location":"Wuse, Abuja",
+        "location_code":542
+    },
+    {
+        "location":"Kado, Abuja",
+        "location_code":275
+    },
+    {
+        "location":"Ikeja, Opebi",
+        "location_code":212
+    },
+    {
+        "location":"Rivers State, Port-Harcourt",
+        "location_code":502
+    },
+    {
+        "location":"Wuye, Abuja",
+        "location_code":551
+    },
+    {
+        "location":"Lekki, Chevron",
+        "location_code":345
+    },
+    {
+        "location":"Lekki, Osapa london",
+        "location_code":362
+    },
+    {
+        "location":"Guzape District, Abuja",
+        "location_code":137
+    },
+    {
+        "location":"Delta State, Aniocha South",
+        "location_code":84
+    },
+    {
+        "location":"Maryland, Mende",
+        "location_code":375
+    },
+    {
+        "location":"Idu Industrial, Abuja",
+        "location_code":194
+    },
+    {
+        "location":"Lagos State, Lekki",
+        "location_code":330
+    },
+    {
+        "location":"Enugu State, Enugu",
+        "location_code":113
+    },
+    {
+        "location":"Lagos State, Victoria Island",
+        "location_code":342
+    },
+    {
+        "location":"Gwarinpa, Life Camp",
+        "location_code":146
+    },
+    {
+        "location":"Galadimawa, Abuja",
+        "location_code":121
+    },
+    {
+        "location":"Apo District, Abuja",
+        "location_code":60
+    },
+    {
+        "location":"Jabi, Abuja",
+        "location_code":265
+    },
+    {
+        "location":"Alimosho, Egbeda",
+        "location_code":35
+    },
+    {
+        "location":"Lagos State, Ikeja",
+        "location_code":320
+    },
+    {
+        "location":"Mabushi, Abuja",
+        "location_code":368
+    },
+    {
+        "location":"Ikeja, Ikeja GRA",
+        "location_code":205
+    },
+    {
+        "location":"Katampe, Katampe Extension",
+        "location_code":286
+    },
+    {
+        "location":"Central Business District, Abuja",
+        "location_code":77
+    },
+    {
+        "location":"Lagos State, Eko Atlantic",
+        "location_code":315
+    },
+    {
+        "location":"Lekki, Ikota",
+        "location_code":350
+    },
+    {
+        "location":"Lagos State, Ikoyi",
+        "location_code":323
+    },
+    {
+        "location":"Kubwa, Abuja",
+        "location_code":294
+    },
+    {
+        "location":"Lugbe District, Abuja",
+        "location_code":364
+    },
+    {
+        "location":"Gwarinpa, Abuja",
+        "location_code":143
+    },
+    {
+        "location":"Apo District, Apo Resettlement",
+        "location_code":61
+    },
+    {
+        "location":"Jiwa, Idu",
+        "location_code":273
+    },
+    {
+        "location":"Ojodu, Isheri North",
+        "location_code":421
+    },
+    {
+        "location":"Magodo, GRA Phase 2 Shangisha",
+        "location_code":370
+    },
+    {
+        "location":"Maryland, LSDPC Maryland Estate",
+        "location_code":374
+    },
+    {
+        "location":"Surulere, Abraham Adesanya",
+        "location_code":510
+    },
+    {
+        "location":"Wuse, Zone 7 \/ Wuse",
+        "location_code":549
+    },
+    {
+        "location":"Ikoyi, Banana Island",
+        "location_code":233
+    },
+    {
+        "location":"Nyanya, Abuja",
+        "location_code":389
+    },
+    {
+        "location":"Ajah, VGC \/ Ajah",
+        "location_code":28
+    },
+    {
+        "location":"Nasarawa State, Karu-Nasarawa",
+        "location_code":382
+    },
+    {
+        "location":"Maryland, Anthony Village",
+        "location_code":373
+    },
+    {
+        "location":"Lekki, Lekki Phase 2",
+        "location_code":358
+    },
+    {
+        "location":"Ogudu, Ogudu GRA",
+        "location_code":398
+    },
+    {
+        "location":"Ikeja, Adeniyi Jones",
+        "location_code":198
+    },
+    {
+        "location":"Surulere, Eric Moore",
+        "location_code":517
+    },
+    {
+        "location":"Ikeja, Toyin Street",
+        "location_code":214
+    },
+    {
+        "location":"Lagos State, Maryland",
+        "location_code":332
+    },
+    {
+        "location":"Lekki, Ologolo",
+        "location_code":360
+    },
+    {
+        "location":"Lekki, Jakande",
+        "location_code":353
+    },
+    {
+        "location":"Ibeju, Abijo",
+        "location_code":178
+    },
+    {
+        "location":"Lagos State, Ogba",
+        "location_code":334
+    },
+    {
+        "location":"Lagos State, Ikorodu",
+        "location_code":321
+    },
+    {
+        "location":"Ogun State, Ifo",
+        "location_code":406
+    },
+    {
+        "location":"Ikoyi, Parkview Estate",
+        "location_code":241
+    },
+    {
+        "location":"Lagos State, Ogudu",
+        "location_code":335
+    },
+    {
+        "location":"Lekki, Igbo-efon",
+        "location_code":347
+    },
+    {
+        "location":"Lekki, Idado",
+        "location_code":346
+    },
+    {
+        "location":"Lekki, Agungi",
+        "location_code":344
+    },
+    {
+        "location":"Ipaja, Ayobo",
+        "location_code":252
+    },
+    {
+        "location":"Lagos State, Gbagada",
+        "location_code":317
+    },
+    {
+        "location":"Magodo, GRA Phase 1",
+        "location_code":369
+    },
+    {
+        "location":"Ikeja, Mobolaji Bank Anthony Way",
+        "location_code":207
+    },
+    {
+        "location":"Ikeja, Oba Akran",
+        "location_code":208
+    },
+    {
+        "location":"Lokogoma, Abuja",
+        "location_code":363
+    },
+    {
+        "location":"Victoria Island, Kofo Abayomi",
+        "location_code":537
+    },
+    {
+        "location":"Ipaja, Baruwa",
+        "location_code":253
+    },
+    {
+        "location":"Gwarinpa, Dawaki",
+        "location_code":145
+    },
+    {
+        "location":"Ibadan, Akobo",
+        "location_code":153
+    },
+    {
+        "location":"Karmo, Abuja",
+        "location_code":281
+    },
+    {
+        "location":"Ogba, Acme Road",
+        "location_code":390
+    },
+    {
+        "location":"Ajah, Ado \/ Ajah",
+        "location_code":16
+    },
+    {
+        "location":"Ibadan, Ojoo",
+        "location_code":171
+    },
+    {
+        "location":"Ogun State, Abeokuta South",
+        "location_code":402
+    },
+    {
+        "location":"Kosofe, Ketu-Alapere",
+        "location_code":290
+    },
+    {
+        "location":"Ibeju, Awoyaya",
+        "location_code":181
+    },
+    {
+        "location":"Ikoyi, Bourdillon",
+        "location_code":234
+    },
+    {
+        "location":"Lagos State, Ibeju",
+        "location_code":318
+    },
+    {
+        "location":"Ogun State, Ado-Odo\/Ota",
+        "location_code":403
+    },
+    {
+        "location":"Victoria Island, Ligali Ayorinde",
+        "location_code":538
+    },
+    {
+        "location":"Kuje, Abuja",
+        "location_code":295
+    },
+    {
+        "location":"Ilupeju, Ikorodu Road \/ Ilupeju",
+        "location_code":244
+    },
+    {
+        "location":"Akwa Ibom State, Uyo",
+        "location_code":32
+    },
+    {
+        "location":"Jikwoyi, Phase 2 \/ Jikwoyi",
+        "location_code":270
+    },
+    {
+        "location":"Delta State, Oshimili North",
+        "location_code":88
+    },
+    {
+        "location":"Ogun State, Ilaro",
+        "location_code":409
+    },
+    {
+        "location":"Surulere, Ogunlana",
+        "location_code":525
+    },
+    {
+        "location":"Ondo State, Akure",
+        "location_code":426
+    },
+    {
+        "location":"Ojodu, Berger",
+        "location_code":420
+    },
+    {
+        "location":"Bayelsa State, Ogbia",
+        "location_code":69
+    },
+    {
+        "location":"Ibeju, Elerangbe",
+        "location_code":186
+    },
+    {
+        "location":"Ogun State, Obafemi-Owode",
+        "location_code":411
+    },
+    {
+        "location":"Oyo State, Iwajowa",
+        "location_code":455
+    },
+    {
+        "location":"Ajah, Abraham Adesanya Estate",
+        "location_code":15
+    },
+    {
+        "location":"Abia State, Umuahia",
+        "location_code":5
+    },
+    {
+        "location":"Osun State, Osogbo",
+        "location_code":443
+    },
+    {
+        "location":"Lagos State, Alimosho",
+        "location_code":309
+    },
+    {
+        "location":"Epe, Epe",
+        "location_code":118
+    },
+    {
+        "location":"Kwara State, Ilorin South",
+        "location_code":300
+    },
+    {
+        "location":"Lagos State, Amuwo-Odofin",
+        "location_code":310
+    },
+    {
+        "location":"Ikeja, Alausa",
+        "location_code":201
+    },
+    {
+        "location":"Edo State, Benin City",
+        "location_code":101
+    },
+    {
+        "location":"Rivers State, Obio-Akpor",
+        "location_code":500
+    },
+    {
+        "location":"Ikeja, Agidingbi",
+        "location_code":199
+    },
+    {
+        "location":"Kwara State, Ilorin West",
+        "location_code":301
+    },
+    {
+        "location":"Lagos State, Surulere",
+        "location_code":340
+    },
+    {
+        "location":"Cross River State, Calabar",
+        "location_code":79
+    },
+    {
+        "location":"Ikeja, Obafemi Awolowo Way",
+        "location_code":209
+    },
+    {
+        "location":"Mararaba, Abuja",
+        "location_code":372
+    },
+    {
+        "location":"Ikeja, Awolowo Way",
+        "location_code":203
+    },
+    {
+        "location":"Oyo State, Ibadan",
+        "location_code":450
+    },
+    {
+        "location":"Ibadan, Bodija",
+        "location_code":158
+    },
+    {
+        "location":"Durumi, Abuja",
+        "location_code":95
+    },
+    {
+        "location":"Edo State, Auchi",
+        "location_code":100
+    },
+    {
+        "location":"Ibeju, Eleko",
+        "location_code":184
+    },
+    {
+        "location":"Osun State, Ife",
+        "location_code":438
+    },
+    {
+        "location":"Delta State, Oshimili South",
+        "location_code":89
+    },
+    {
+        "location":"Oyo State, Lagelu",
+        "location_code":457
+    },
+    {
+        "location":"Ogun State, Abeokuta North",
+        "location_code":401
+    },
+    {
+        "location":"Delta State, Ugheli",
+        "location_code":91
+    },
+    {
+        "location":"Lagos State, Ilupeju",
+        "location_code":325
+    },
+    {
+        "location":"Ajah, Off Lekki-Epe Expressway",
+        "location_code":21
+    },
+    {
+        "location":"Imo State, Owerri",
+        "location_code":250
+    },
+    {
+        "location":"Katampe, Katampe (Main)",
+        "location_code":285
+    },
+    {
+        "location":"Utako, Abuja",
+        "location_code":528
+    },
+    {
+        "location":"Ikorodu, Agbowa",
+        "location_code":216
+    },
+    {
+        "location":"Edo State, Ikpoba-Okha",
+        "location_code":102
+    },
+    {
+        "location":"Ogba, Ogba GRA",
+        "location_code":394
+    },
+    {
+        "location":"Lugbe District, Sabon Lugbe",
+        "location_code":367
+    },
+    {
+        "location":"Ibeju, Bogije",
+        "location_code":183
+    },
+    {
+        "location":"Lekki, Lekki Expressway",
+        "location_code":355
+    },
+    {
+        "location":"Ikeja, Omole Phase 1",
+        "location_code":210
+    },
+    {
+        "location":"Port-Harcourt, Woji",
+        "location_code":495
+    },
+    {
+        "location":"Dakwo District, Abuja",
+        "location_code":81
+    },
+    {
+        "location":"Gbagada, Phase 2",
+        "location_code":134
+    },
+    {
+        "location":"Karshi, Abuja",
+        "location_code":282
+    },
+    {
+        "location":"Ifako-Ijaiye, Alakuko",
+        "location_code":197
+    },
+    {
+        "location":"Yaba, Adekunle",
+        "location_code":554
+    },
+    {
+        "location":"Amuwo-Odofin, Festac",
+        "location_code":40
+    },
+    {
+        "location":"Anambra State, Anaocha",
+        "location_code":45
+    },
+    {
+        "location":"Yaba, Onike",
+        "location_code":560
+    },
+    {
+        "location":"Ogun State, Ewekoro",
+        "location_code":405
+    },
+    {
+        "location":"Lagos State, Shomolu",
+        "location_code":339
+    },
+    {
+        "location":"Akwa Ibom State, Ibesikpo Asutan",
+        "location_code":29
+    },
+    {
+        "location":"Apapa, Apapa Road",
+        "location_code":56
+    },
+    {
+        "location":"Mpape, Abuja",
+        "location_code":380
+    },
+    {
+        "location":"Jikwoyi, Phase 1 \/ Jikwoyi",
+        "location_code":269
+    },
+    {
+        "location":"Wuse, Zone 5 \/ Wuse",
+        "location_code":547
+    },
+    {
+        "location":"Ipaja, Ipaja Road",
+        "location_code":255
+    },
+    {
+        "location":"Ikeja, Oregun",
+        "location_code":213
+    },
+    {
+        "location":"Rivers State, Ikwerre",
+        "location_code":499
+    },
+    {
+        "location":"Nasarawa State, Nasarawa",
+        "location_code":384
+    },
+    {
+        "location":"Ikorodu, Akute Ajuwon",
+        "location_code":218
+    },
+    {
+        "location":"Agege, Iju",
+        "location_code":10
+    },
+    {
+        "location":"Kwara State, Ilorin East",
+        "location_code":299
+    },
+    {
+        "location":"Kaura, Abuja",
+        "location_code":287
+    },
+    {
+        "location":"Ajah, Canaan Estate",
+        "location_code":18
+    },
+    {
+        "location":"Lagos State, Ifako-Ijaiye",
+        "location_code":319
+    },
+    {
+        "location":"Badagry, Oko Afo",
+        "location_code":68
+    },
+    {
+        "location":"Shomolu, Onipanu",
+        "location_code":507
+    },
+    {
+        "location":"Ojodu, Yakoyo\/Alagbole",
+        "location_code":424
+    },
+    {
+        "location":"Ibadan, Ibadan Polytechnic\/University",
+        "location_code":163
+    },
+    {
+        "location":"Gwagwa, Karsana",
+        "location_code":139
+    },
+    {
+        "location":"Sagamu, Shimawa",
+        "location_code":505
+    },
+    {
+        "location":"Lagos State, Ojodu",
+        "location_code":337
+    },
+    {
+        "location":"Lagos State, Magodo",
+        "location_code":331
+    },
+    {
+        "location":"Isolo, Ago Palace",
+        "location_code":257
+    },
+    {
+        "location":"Ibadan, Iwo Road",
+        "location_code":166
+    },
+    {
+        "location":"Wuse, Zone 1 \/ Wuse",
+        "location_code":543
+    },
+    {
+        "location":"Surulere, Randle Avenue",
+        "location_code":527
+    },
+    {
+        "location":"Lagos State, Ipaja",
+        "location_code":326
+    },
+    {
+        "location":"Lagos State, Epe",
+        "location_code":316
+    },
+    {
+        "location":"Ibeju, Aiyeteju",
+        "location_code":179
+    },
+    {
+        "location":"Gaduwa, Abuja",
+        "location_code":120
+    },
+    {
+        "location":"Ikorodu, Ebute",
+        "location_code":220
+    },
+    {
+        "location":"Ogba, Ogba Industrial Estate",
+        "location_code":395
+    },
+    {
+        "location":"Yaba, Jibowu",
+        "location_code":559
+    },
+    {
+        "location":"Ibeju, Badore",
+        "location_code":182
+    },
+    {
+        "location":"Ikeja, Allen Avenue",
+        "location_code":202
+    },
+    {
+        "location":"Garki 1, Area 11",
+        "location_code":124
+    },
+    {
+        "location":"Kurudu, Abuja",
+        "location_code":296
+    },
+    {
+        "location":"Ogun State, Iseri",
+        "location_code":410
+    },
+    {
+        "location":"Jigawa State, Garki",
+        "location_code":267
+    },
+    {
+        "location":"Lagos State, Agege",
+        "location_code":307
+    },
+    {
+        "location":"Isolo, Ajao Estate",
+        "location_code":258
+    },
+    {
+        "location":"Lagos State, Apapa",
+        "location_code":311
+    },
+    {
+        "location":"Agege, Iju-Ishaga",
+        "location_code":11
+    },
+    {
+        "location":"Victoria Island, Idowu Taylor",
+        "location_code":536
+    },
+    {
+        "location":"Ajah, Olokonla",
+        "location_code":24
+    },
+    {
+        "location":"Agege, Fagba",
+        "location_code":8
+    },
+    {
+        "location":"Lagos State, Oshodi",
+        "location_code":338
+    },
+    {
+        "location":"Rivers State, Oyigbo",
+        "location_code":501
+    },
+    {
+        "location":"Shomolu, Shomolu \/ Shomolu",
+        "location_code":509
+    },
+    {
+        "location":"Bwari, Ushafa",
+        "location_code":76
+    },
+    {
+        "location":"Kosofe, Ketu-Ikosi",
+        "location_code":291
+    },
+    {
+        "location":"Ibadan, Basorun",
+        "location_code":157
+    },
+    {
+        "location":"Ikoyi, MacPherson",
+        "location_code":238
+    },
+    {
+        "location":"Dakibiyu, Abuja",
+        "location_code":80
+    },
+    {
+        "location":"Ipaja, Ipaja \/ Ipaja",
+        "location_code":254
+    },
+    {
+        "location":"Alimosho, Iseri Olofin",
+        "location_code":36
+    },
+    {
+        "location":"Ajah, Peninsula Estate",
+        "location_code":25
+    },
+    {
+        "location":"Surulere, Adeniran Ogunsanya",
+        "location_code":511
+    },
+    {
+        "location":"Ibadan, Oluyole Estate",
+        "location_code":174
+    },
+    {
+        "location":"Mbora, Abuja",
+        "location_code":379
+    },
+    {
+        "location":"Ikeja, Omole Phase 2",
+        "location_code":211
+    },
+    {
+        "location":"Victoria Island, Akin Adesola",
+        "location_code":534
+    },
+    {
+        "location":"Gwarinpa, Dape",
+        "location_code":144
+    },
+    {
+        "location":"Ogun State, Sagamu",
+        "location_code":415
+    },
+    {
+        "location":"Oyo State, Ona-Ara",
+        "location_code":460
+    },
+    {
+        "location":"Epe, Epe Road",
+        "location_code":119
+    },
+    {
+        "location":"Wuse, Zone 3 \/ Wuse",
+        "location_code":545
+    },
+    {
+        "location":"Isolo, Okota",
+        "location_code":263
+    },
+    {
+        "location":"Anambra State, Anambra East",
+        "location_code":44
+    },
+    {
+        "location":"Anambra State, Onitsha",
+        "location_code":51
+    },
+    {
+        "location":"Lagos State, Lagos Island (Eko)",
+        "location_code":329
+    },
+    {
+        "location":"Victoria Island, Victoria Island Extension",
+        "location_code":539
+    },
+    {
+        "location":"Yaba, Abule-Ijesha",
+        "location_code":552
+    },
+    {
+        "location":"Ogun State, Odeda",
+        "location_code":412
+    },
+    {
+        "location":"Lagos State, Egbe\/Idimu",
+        "location_code":313
+    },
+    {
+        "location":"Lekki, Lafiaji",
+        "location_code":354
+    },
+    {
+        "location":"Yaba, Sabo \/ Yaba",
+        "location_code":561
+    },
+    {
+        "location":"Ajah, Lekki Gardens Estate",
+        "location_code":20
+    },
+    {
+        "location":"Gudu, Abuja",
+        "location_code":136
+    },
+    {
+        "location":"Ibeju, Idi-Orogbo",
+        "location_code":188
+    },
+    {
+        "location":"Kano State, Nasarawa-Kano",
+        "location_code":280
+    },
+    {
+        "location":"Ikoyi, Ikoyi S.W",
+        "location_code":237
+    },
+    {
+        "location":"Anambra State, Oyi",
+        "location_code":53
+    },
+    {
+        "location":"Apo District, Zone B",
+        "location_code":63
+    },
+    {
+        "location":"Plateau State, Jos",
+        "location_code":465
+    },
+    {
+        "location":"Ibeju, Lakowe",
+        "location_code":190
+    },
+    {
+        "location":"Jikwoyi, Abuja",
+        "location_code":268
+    },
+    {
+        "location":"Oyo State, Eruwa",
+        "location_code":449
+    },
+    {
+        "location":"Ikoyi, 2nd Avenue Extension",
+        "location_code":231
+    },
+    {
+        "location":"Ogba, Ifako-Ogba",
+        "location_code":393
+    },
+    {
+        "location":"Ikorodu, Agric",
+        "location_code":217
+    },
+    {
+        "location":"Surulere, Lawanson",
+        "location_code":523
+    },
+    {
+        "location":"Ogudu, Ogudu-Orioke",
+        "location_code":399
+    },
+    {
+        "location":"Ikoyi, Awolowo Road",
+        "location_code":232
+    },
+    {
+        "location":"Oyo State, Kajola",
+        "location_code":456
+    },
+    {
+        "location":"Bwari, Abuja",
+        "location_code":73
+    },
+    {
+        "location":"Ikorodu, Ibeshe \/ Ikorodu",
+        "location_code":223
+    },
+    {
+        "location":"Garki 2, Abuja",
+        "location_code":127
+    },
+    {
+        "location":"Wuse, Zone 4 \/ Wuse",
+        "location_code":546
+    },
+    {
+        "location":"Gbagada, Millenuim\/UPS",
+        "location_code":129
+    },
+    {
+        "location":"Ogba, Oke-Ira \/ Ogba",
+        "location_code":396
+    },
+    {
+        "location":"Ojodu, Magodo Isheri",
+        "location_code":422
+    },
+    {
+        "location":"Oshodi, Oshodi Expressway",
+        "location_code":432
+    },
+    {
+        "location":"Lagos State, Agbara-Igbesan",
+        "location_code":305
+    },
+    {
+        "location":"Ifako-Ijaiye, Alagbado",
+        "location_code":196
+    },
+    {
+        "location":"Yaba, Akoka",
+        "location_code":555
+    },
+    {
+        "location":"Jikwoyi, Phase 3 \/ Jikwoyi",
+        "location_code":271
+    },
+    {
+        "location":"Gwagwalada, Giri",
+        "location_code":141
+    },
+    {
+        "location":"Ikeja, Computer Village",
+        "location_code":204
+    },
+    {
+        "location":"Ibadan, Apata",
+        "location_code":156
+    },
+    {
+        "location":"Ikotun\/Igando, Abaranje",
+        "location_code":228
+    },
+    {
+        "location":"Niger State, Chanchaga",
+        "location_code":385
+    },
+    {
+        "location":"Apo District, Wasa",
+        "location_code":62
+    },
+    {
+        "location":"Victoria Island, Ademola Adetokunbo",
+        "location_code":530
+    },
+    {
+        "location":"Lagos Island \/ Lagos Island, Lagos Island",
+        "location_code":303
+    },
+    {
+        "location":"Lagos State, Agboyi\/Ketu",
+        "location_code":306
+    },
+    {
+        "location":"Surulere, Idi Araba",
+        "location_code":518
+    },
+    {
+        "location":"Kogi State, Lokoja",
+        "location_code":289
+    },
+    {
+        "location":"Delta State, Aniocha North",
+        "location_code":83
+    },
+    {
+        "location":"Lagos State, Ejigbo",
+        "location_code":314
+    },
+    {
+        "location":"Kwara State, Offa",
+        "location_code":302
+    },
+    {
+        "location":"Ajah, Ogombo",
+        "location_code":22
+    },
+    {
+        "location":"Kosofe, Kosofe \/ Kosofe",
+        "location_code":292
+    },
+    {
+        "location":"Maryland, Onigbongbo",
+        "location_code":376
+    },
+    {
+        "location":"Niger State, Suleja",
+        "location_code":387
+    },
+    {
+        "location":"Ibadan, Agodi",
+        "location_code":150
+    },
+    {
+        "location":"Lagos State, Kosofe",
+        "location_code":328
+    },
+    {
+        "location":"Surulere, Ojuelegba",
+        "location_code":526
+    },
+    {
+        "location":"Wuse, Zone 6 \/ Wuse",
+        "location_code":548
+    },
+    {
+        "location":"Ikorodu, Igbogbo",
+        "location_code":224
+    },
+    {
+        "location":"Sabo Gida, Abuja",
+        "location_code":504
+    },
+    {
+        "location":"Port-Harcourt, Ruuodomaya",
+        "location_code":493
+    },
+    {
+        "location":"Gbagada, Ifako-Gbagada",
+        "location_code":128
+    },
+    {
+        "location":"Alimosho, Akesan",
+        "location_code":33
+    },
+    {
+        "location":"Lagos State, Isolo",
+        "location_code":327
+    },
+    {
+        "location":"Apapa, Apapa G.R.A",
+        "location_code":55
+    },
+    {
+        "location":"Ajah, Thomas Estate",
+        "location_code":27
+    },
+    {
+        "location":"Lagos State, Badagry",
+        "location_code":312
+    },
+    {
+        "location":"Ibadan, Alakia",
+        "location_code":154
+    },
+    {
+        "location":"Ikotun\/Igando, Igando \/ Ikotun\/Igando",
+        "location_code":230
+    },
+    {
+        "location":"Amuwo-Odofin, Apple Junction",
+        "location_code":39
+    },
+    {
+        "location":"Shomolu, Bariga \/ Shomolu",
+        "location_code":506
+    },
+    {
+        "location":"Bwari, Bwari \/ Bwari",
+        "location_code":74
+    },
+    {
+        "location":"Ibadan, Soka",
+        "location_code":177
+    },
+    {
+        "location":"Lagos State, Abule Egba",
+        "location_code":304
+    },
+    {
+        "location":"Rivers State, Etche",
+        "location_code":498
+    },
+    {
+        "location":"Lekki, Ilasan",
+        "location_code":352
+    },
+    {
+        "location":"Garki 1, Abuja",
+        "location_code":122
+    },
+    {
+        "location":"Ebonyi State, Ebonyi",
+        "location_code":98
+    },
+    {
+        "location":"Ikorodu, Ijede \/ Ikorodu",
+        "location_code":225
+    },
+    {
+        "location":"Ibadan, Akala Express",
+        "location_code":152
+    },
+    {
+        "location":"Port-Harcourt, Aba Expressway",
+        "location_code":466
+    },
+    {
+        "location":"Ibeju, Magbon-Alade",
+        "location_code":191
+    },
+    {
+        "location":"Anambra State, Nnewi",
+        "location_code":50
+    },
+    {
+        "location":"Ibadan, Samonda",
+        "location_code":176
+    },
+    {
+        "location":"Niger State, Minna",
+        "location_code":386
+    },
+    {
+        "location":"Ogun State, Ayetoro",
+        "location_code":404
+    },
+    {
+        "location":"Port-Harcourt, Elimbu",
+        "location_code":474
+    },
+    {
+        "location":"Ibadan, Ologuneru",
+        "location_code":173
+    },
+    {
+        "location":"Surulere, Itire",
+        "location_code":521
+    },
+    {
+        "location":"Badagry, Aradagun",
+        "location_code":66
+    },
+    {
+        "location":"Kaduna State, Kaduna \/ Kaduna State",
+        "location_code":276
+    },
+    {
+        "location":"Port-Harcourt, GRA Phase 1 \/ Port-Harcourt",
+        "location_code":477
+    },
+    {
+        "location":"Ifako-Ijaiye, Agbado",
+        "location_code":195
+    },
+    {
+        "location":"Lagos State, Ojo",
+        "location_code":336
+    },
+    {
+        "location":"Victoria Island, 1004",
+        "location_code":529
+    },
+    {
+        "location":"Ibeju, Akodo",
+        "location_code":180
+    },
+    {
+        "location":"Lagos State, Ikotun\/Igando",
+        "location_code":322
+    },
+    {
+        "location":"Oyo State, Oluyole",
+        "location_code":459
+    },
+    {
+        "location":"Ibadan, Eleyele",
+        "location_code":161
+    },
+    {
+        "location":"Ikoyi, Gerard Road",
+        "location_code":236
+    },
+    {
+        "location":"Port-Harcourt, D-Line",
+        "location_code":470
+    },
+    {
+        "location":"Port-Harcourt, Trans Amadi",
+        "location_code":494
+    },
+    {
+        "location":"Ojo, Okokomaiko",
+        "location_code":418
+    },
+    {
+        "location":"Ipaja, Iyana Ipaja",
+        "location_code":256
+    },
+    {
+        "location":"Ebonyi State, Abakaliki",
+        "location_code":97
+    },
+    {
+        "location":"Ikorodu, Adamo",
+        "location_code":215
+    },
+    {
+        "location":"Lekki, Ilaje \/ Lekki",
+        "location_code":351
+    },
+    {
+        "location":"Imo State, Ohaji\/Egbema",
+        "location_code":249
+    },
+    {
+        "location":"Ogun State, Ijebu Ode",
+        "location_code":408
+    },
+    {
+        "location":"Gwagwalada, Abuja",
+        "location_code":140
+    },
+    {
+        "location":"Ikorodu, Gberigbe",
+        "location_code":222
+    },
+    {
+        "location":"Oyo State, Iseyin",
+        "location_code":453
+    },
+    {
+        "location":"Oyo State, Itesiwaju",
+        "location_code":454
+    },
+    {
+        "location":"Pyakasa, Abuja",
+        "location_code":496
+    },
+    {
+        "location":"Port-Harcourt, Rumuduru",
+        "location_code":486
+    },
+    {
+        "location":"Port-Harcourt, Eliozu",
+        "location_code":475
+    },
+    {
+        "location":"Oyo State, Ido",
+        "location_code":451
+    },
+    {
+        "location":"Ibadan, Adamasingba",
+        "location_code":147
+    },
+    {
+        "location":"Oyo State, Surulere-Oyo",
+        "location_code":462
+    },
+    {
+        "location":"Ibadan, Idishin",
+        "location_code":164
+    },
+    {
+        "location":"Bayelsa State, Yenagoa",
+        "location_code":70
+    },
+    {
+        "location":"Ibadan, Old Bodija",
+        "location_code":172
+    },
+    {
+        "location":"Enugu State, Nsukka",
+        "location_code":114
+    },
+    {
+        "location":"Ibadan, Agbowo",
+        "location_code":149
+    },
+    {
+        "location":"Ibadan, CHallenge \/ Ibadan",
+        "location_code":159
+    },
+    {
+        "location":"Oyo State, Egbeda",
+        "location_code":448
+    },
+    {
+        "location":"Ikeja, Mangoro",
+        "location_code":206
+    },
+    {
+        "location":"Garki 1, Area 1",
+        "location_code":123
+    },
+    {
+        "location":"Surulere, Masha",
+        "location_code":524
+    },
+    {
+        "location":"Port-Harcourt, Elelenwo",
+        "location_code":473
+    },
+    {
+        "location":"Ojodu, River Valley Estate",
+        "location_code":423
+    },
+    {
+        "location":"Ekiti State, Ado Ekiti",
+        "location_code":109
+    },
+    {
+        "location":"Amuwo-Odofin, Satellite Town",
+        "location_code":42
+    },
+    {
+        "location":"Ojo, Ajangbadi",
+        "location_code":416
+    },
+    {
+        "location":"Port-Harcourt, Rumuahalu",
+        "location_code":485
+    },
+    {
+        "location":"Osun State, Olorunda-Osun",
+        "location_code":442
+    },
+    {
+        "location":"Gwagwalada, Kutunku",
+        "location_code":142
+    },
+    {
+        "location":"Ibadan, Iyanganku",
+        "location_code":167
+    },
+    {
+        "location":"Badagry, Age Mowo",
+        "location_code":65
+    },
+    {
+        "location":"Ibadan, Rind Road",
+        "location_code":175
+    },
+    {
+        "location":"Ibadan, Jericho",
+        "location_code":168
+    },
+    {
+        "location":"Ikorodu, Ikorodu Garage",
+        "location_code":226
+    },
+    {
+        "location":"Agege, Meiran",
+        "location_code":12
+    },
+    {
+        "location":"Port-Harcourt, East West Road",
+        "location_code":471
+    },
+    {
+        "location":"Isolo, Oke-Afa",
+        "location_code":262
+    },
+    {
+        "location":"Ibadan, Alalubosa",
+        "location_code":155
+    },
+    {
+        "location":"Port-Harcourt, Rukpokwu",
+        "location_code":484
+    },
+    {
+        "location":"Kabusa, Abuja",
+        "location_code":274
+    },
+    {
+        "location":"Ibeju, Ibeju-Agbe",
+        "location_code":187
+    },
+    {
+        "location":"Ibadan, Dugbe (Onireke)",
+        "location_code":160
+    },
+    {
+        "location":"Oyo State, Afijio",
+        "location_code":444
+    },
+    {
+        "location":"Ibadan, Moniya",
+        "location_code":170
+    },
+    {
+        "location":"Isolo, Bucknor",
+        "location_code":259
+    },
+    {
+        "location":"Agege, Oko-Oba",
+        "location_code":14
+    },
+    {
+        "location":"Ogun State, Ijebu",
+        "location_code":407
+    },
+    {
+        "location":"Ibadan, Ijaiye Orile",
+        "location_code":165
+    },
+    {
+        "location":"Ibeju, Igando-Oloja",
+        "location_code":189
+    },
+    {
+        "location":"Ipaja, Abesan",
+        "location_code":251
+    },
+    {
+        "location":"Ibeju, Mopo-Ijebu Eputu",
+        "location_code":192
+    },
+    {
+        "location":"Oyo State, Akinyele",
+        "location_code":445
+    },
+    {
+        "location":"Ikoyi, Osborne Foreshore Estate",
+        "location_code":240
+    },
+    {
+        "location":"Oyo State, Atiba",
+        "location_code":446
+    },
+    {
+        "location":"Enugu State, Awgu",
+        "location_code":112
+    },
+    {
+        "location":"Egbe\/Idimu, Idimu",
+        "location_code":104
+    },
+    {
+        "location":"Imo State, Ngor-Okpala",
+        "location_code":248
+    },
+    {
+        "location":"Cross River State, Akpabuyo",
+        "location_code":78
+    },
+    {
+        "location":"Isolo, Osolo Way",
+        "location_code":264
+    },
+    {
+        "location":"Port-Harcourt, Eneka",
+        "location_code":476
+    },
+    {
+        "location":"Yaba, Ebute Metta",
+        "location_code":557
+    },
+    {
+        "location":"Ogba, Wempco Road",
+        "location_code":397
+    },
+    {
+        "location":"Lekki, Lekki Free Trade Zone",
+        "location_code":356
+    },
+    {
+        "location":"Delta State, Sapele",
+        "location_code":90
+    },
+    {
+        "location":"Apapa, Ajegunle",
+        "location_code":54
+    },
+    {
+        "location":"Lugbe District, Kiami",
+        "location_code":366
+    },
+    {
+        "location":"Apapa, Olodi Apapa",
+        "location_code":58
+    },
+    {
+        "location":"Ibadan, Molete",
+        "location_code":169
+    },
+    {
+        "location":"Osun State, Aiyedire",
+        "location_code":435
+    },
+    {
+        "location":"Victoria Island, Ahmadu Bello Way",
+        "location_code":533
+    },
+    {
+        "location":"Ojota, New Garage \/ Ojota",
+        "location_code":425
+    },
+    {
+        "location":"Surulere, Bode Thomas",
+        "location_code":515
+    },
+    {
+        "location":"Ikorodu, Erunwe",
+        "location_code":221
+    },
+    {
+        "location":"Enugu State, Udi",
+        "location_code":116
+    },
+    {
+        "location":"Kosofe, Mile 12",
+        "location_code":293
+    },
+    {
+        "location":"Victoria Island, Adeola Hopewell",
+        "location_code":531
+    },
+    {
+        "location":"Edo State, Ovia South",
+        "location_code":103
+    },
+    {
+        "location":"Victoria Island, Adeola Odeku",
+        "location_code":532
+    },
+    {
+        "location":"Abia State, Ugwunagbo",
+        "location_code":4
+    },
+    {
+        "location":"Osun State, Aiyedade",
+        "location_code":434
+    },
+    {
+        "location":"Yaba, Alagomeji",
+        "location_code":556
+    },
+    {
+        "location":"Port-Harcourt, Okuru",
+        "location_code":481
+    },
+    {
+        "location":"Delta State, Ethiope West",
+        "location_code":87
+    },
+    {
+        "location":"Osun State, Ede",
+        "location_code":436
+    },
+    {
+        "location":"Oyo State, Ori Ire",
+        "location_code":461
+    },
+    {
+        "location":"Niger State, Tafa",
+        "location_code":388
+    },
+    {
+        "location":"Port-Harcourt, Rumuigbo",
+        "location_code":488
+    },
+    {
+        "location":"Dutse-Alhaji, Abuja",
+        "location_code":96
+    },
+    {
+        "location":"Oyo, Kosobo",
+        "location_code":463
+    },
+    {
+        "location":"Anambra State, Dunukofia",
+        "location_code":47
+    },
+    {
+        "location":"Wumba, Abuja",
+        "location_code":540
+    },
+    {
+        "location":"Egbe\/Idimu, Isheri \/ Egbe Idimu",
+        "location_code":105
+    },
+    {
+        "location":"Ojo, Iba \/ Ojo",
+        "location_code":417
+    },
+    {
+        "location":"Ikotun\/Igando, Governors Road",
+        "location_code":229
+    },
+    {
+        "location":"Ikorodu, Apeka",
+        "location_code":219
+    },
+    {
+        "location":"Lagos State, Tarkwa Bay Island",
+        "location_code":341
+    },
+    {
+        "location":"Dei-Dei, Abuja",
+        "location_code":82
+    },
+    {
+        "location":"Gbagada, Phase 1 \/ Gbagada",
+        "location_code":133
+    },
+    {
+        "location":"Agege, Ifako",
+        "location_code":9
+    },
+    {
+        "location":"Isolo, Ire Akari",
+        "location_code":260
+    },
+    {
+        "location":"Osun State, Iwo",
+        "location_code":441
+    },
+    {
+        "location":"Ondo State, Ilaje",
+        "location_code":427
+    },
+    {
+        "location":"Abia State, Aba North",
+        "location_code":0
+    },
+    {
+        "location":"Imo State, Aboh-Mbaise",
+        "location_code":246
+    },
+    {
+        "location":"Delta State, Ethiope East",
+        "location_code":86
+    },
+    {
+        "location":"Ibeju, Elemoro",
+        "location_code":185
+    },
+    {
+        "location":"Kwara State, Asa",
+        "location_code":297
+    },
+    {
+        "location":"Rivers State, Eleme",
+        "location_code":497
+    },
+    {
+        "location":"Oshodi, Shogunle",
+        "location_code":433
+    },
+    {
+        "location":"Shomolu, Palmgroove",
+        "location_code":508
+    },
+    {
+        "location":"Oshodi, Bolade",
+        "location_code":430
+    },
+    {
+        "location":"Orozo, Abuja",
+        "location_code":428
+    },
+    {
+        "location":"Anambra State, Njikoka",
+        "location_code":49
+    },
+    {
+        "location":"Delta State, Warri",
+        "location_code":93
+    },
+    {
+        "location":"Oyo State, Atisbo",
+        "location_code":447
+    },
+    {
+        "location":"Ikorodu, Jumofak",
+        "location_code":227
+    },
+    {
+        "location":"Surulere, Alaka\/Iponri",
+        "location_code":514
+    },
+    {
+        "location":"Agege, New Oko Oba",
+        "location_code":13
+    },
+    {
+        "location":"Masaka, Abuja",
+        "location_code":378
+    },
+    {
+        "location":"Nasarawa State, Keffi",
+        "location_code":383
+    },
+    {
+        "location":"Osun State, Ilesa",
+        "location_code":439
+    },
+    {
+        "location":"Ogba, Aguda \/ Ogba",
+        "location_code":391
+    },
+    {
+        "location":"Anambra State, Idemili",
+        "location_code":48
+    },
+    {
+        "location":"Osun State, Egbedore",
+        "location_code":437
+    },
+    {
+        "location":"Gbagada, Oworonshoki \/ Gbagada",
+        "location_code":131
+    },
+    {
+        "location":"Amuwo-Odofin, Ibeshe \/ Amuwo-Odofin",
+        "location_code":41
+    },
+    {
+        "location":"Lagos State, Mushin",
+        "location_code":333
+    },
+    {
+        "location":"Oyo, Oyo \/ Oyo",
+        "location_code":464
+    },
+    {
+        "location":"Ajah, Graceland Estate",
+        "location_code":19
+    },
+    {
+        "location":"Duboyi, Abuja",
+        "location_code":94
+    },
+    {
+        "location":"Ajah, Oke Ira \/ Ajah",
+        "location_code":23
+    },
+    {
+        "location":"Ejigbo, Ejigbo \/ Ejigbo",
+        "location_code":108
+    },
+    {
+        "location":"Surulere, Iponri",
+        "location_code":520
+    },
+    {
+        "location":"Ilupeju, Ilupeju Industrial Estate",
+        "location_code":245
+    },
+    {
+        "location":"Lagos State, Ilashe",
+        "location_code":324
+    },
+    {
+        "location":"Port-Harcourt, GRA Phase 3 \/ Port-Harcourt",
+        "location_code":479
+    },
+    {
+        "location":"Kano State, Makoda",
+        "location_code":279
+    },
+    {
+        "location":"Gbagada, Pedro",
+        "location_code":132
+    },
+    {
+        "location":"Wuse, Zone 2 \/ Wuse",
+        "location_code":544
+    },
+    {
+        "location":"Ogba, Ajayi Road",
+        "location_code":392
+    },
+    {
+        "location":"Badagry, Badagry \/ Badagry",
+        "location_code":67
+    },
+    {
+        "location":"Ilupeju, Bye Pass Ilupeju",
+        "location_code":242
+    },
+    {
+        "location":"Abia State, Aba South",
+        "location_code":1
+    },
+    {
+        "location":"Ekiti State, Ikere",
+        "location_code":110
+    },
+    {
+        "location":"Oshodi, Mafoluku",
+        "location_code":431
+    },
+    {
+        "location":"Rivers State, Tai",
+        "location_code":503
+    },
+    {
+        "location":"Benue State, Makurdi",
+        "location_code":71
+    },
+    {
+        "location":"Port-Harcourt, Omagwa",
+        "location_code":483
+    },
+    {
+        "location":"Gwagwa, Kagini",
+        "location_code":138
+    },
+    {
+        "location":"Surulere, Alaka Estate",
+        "location_code":513
+    },
+    {
+        "location":"Ilupeju, Coker Road",
+        "location_code":243
+    },
+    {
+        "location":"Yobe State, Karasuwa",
+        "location_code":562
+    },
+    {
+        "location":"Akwa Ibom State, Uruan",
+        "location_code":31
+    },
+    {
+        "location":"Apapa, Kirikiri",
+        "location_code":57
+    },
+    {
+        "location":"Abia State, Osisioma Ngwa",
+        "location_code":3
+    },
+    {
+        "location":"Ajah, Ajiwe",
+        "location_code":17
+    },
+    {
+        "location":"Gbagada, New Garage \/ Gbagada",
+        "location_code":130
+    },
+    {
+        "location":"Isolo, Iyana Isolo",
+        "location_code":261
+    },
+    {
+        "location":"Yaba, Abule-Oja",
+        "location_code":553
+    },
+    {
+        "location":"Amuwo-Odofin, Agboju",
+        "location_code":38
+    },
+    {
+        "location":"Port-Harcourt, Old GRA",
+        "location_code":482
+    },
+    {
+        "location":"Abia State, Obi Ngwa",
+        "location_code":2
+    },
+    {
+        "location":"Akwa Ibom State, Ikot Ekpene",
+        "location_code":30
+    },
+    {
+        "location":"Lekki, Orange Island",
+        "location_code":361
+    },
+    {
+        "location":"Zuba, Abuja",
+        "location_code":563
+    },
+    {
+        "location":"Imo State, Mbaitoli",
+        "location_code":247
+    },
+    {
+        "location":"Lekki, Nicon Town",
+        "location_code":359
+    },
+    {
+        "location":"Ojo, Satelite Town",
+        "location_code":419
+    },
+    {
+        "location":"Bwari, Kuduru",
+        "location_code":75
+    },
+    {
+        "location":"Garki 1, Area 8",
+        "location_code":126
+    },
+    {
+        "location":"Ibadan, Adeoyo",
+        "location_code":148
+    },
+    {
+        "location":"Port-Harcourt, Abuloma",
+        "location_code":467
+    },
+    {
+        "location":"Ogun State, Pakuro",
+        "location_code":414
+    },
+    {
+        "location":"Egbeda, Egbeda \/ Egbeda",
+        "location_code":106
+    },
+    {
+        "location":"Mushin, CHallenge \/ Mushin",
+        "location_code":381
+    },
+    {
+        "location":"Port-Harcourt, Rumuokwurusi",
+        "location_code":491
+    },
+    {
+        "location":"Ibeju, Orimedu",
+        "location_code":193
+    },
+    {
+        "location":"Port-Harcourt, GRA Phase 2 \/ Port-Harcourt",
+        "location_code":478
+    },
+    {
+        "location":"Ikoyi, Dolphin Estate",
+        "location_code":235
+    },
+    {
+        "location":"Borno State, Kukawa",
+        "location_code":72
+    },
+    {
+        "location":"Enugu State, Uzo-Uwani",
+        "location_code":117
+    },
+    {
+        "location":"Anambra State, Aghamelu",
+        "location_code":43
+    },
+    {
+        "location":"Enugu State, Oji-River",
+        "location_code":115
+    },
+    {
+        "location":"Afijio, Iware",
+        "location_code":6
+    },
+    {
+        "location":"Victoria Island, Akin Olugbade",
+        "location_code":535
+    },
+    {
+        "location":"Ibadan, Ibadan North West",
+        "location_code":162
+    },
+    {
+        "location":"Ekiti State, Oye",
+        "location_code":111
+    },
+    {
+        "location":"Surulere, Kilo",
+        "location_code":522
+    },
+    {
+        "location":"Gbagada, Soluyi",
+        "location_code":135
+    },
+    {
+        "location":"Kwara State, Ifelodun-Kwara",
+        "location_code":298
+    },
+    {
+        "location":"Apapa, Tin Can",
+        "location_code":59
+    },
+    {
+        "location":"Ogun State",
+        "location_code":400
+    },
+    {
+        "location":"Ogun State, Odogbolu",
+        "location_code":413
+    },
+    {
+        "location":"Port-Harcourt, Rumuokwachi",
+        "location_code":490
+    },
+    {
+        "location":"Delta State, Uvwie",
+        "location_code":92
+    },
+    {
+        "location":"Alimosho, Akowonjo",
+        "location_code":34
+    },
+    {
+        "location":"Kano State, Dawakin Kudu",
+        "location_code":277
+    },
+    {
+        "location":"Port-Harcourt, Rumuodara",
+        "location_code":489
+    },
+    {
+        "location":"Port-Harcourt, Choba",
+        "location_code":469
+    },
+    {
+        "location":"Kogi State, Idah",
+        "location_code":288
+    },
+    {
+        "location":"Port-Harcourt, New Layout",
+        "location_code":480
+    },
+    {
+        "location":"Port-Harcourt, Rumuekini",
+        "location_code":487
+    },
+    {
+        "location":"Edo State, Akoko-Edo",
+        "location_code":99
+    },
+    {
+        "location":"Wuse, Zone 8 \/ Wuse",
+        "location_code":550
+    },
+    {
+        "location":"Surulere, Ijeshatedo",
+        "location_code":519
+    },
+    {
+        "location":"Kano State, Kura",
+        "location_code":278
+    },
+    {
+        "location":"Port-Harcourt, Amadi-Ama",
+        "location_code":468
+    },
+    {
+        "location":"Surulere, Coker",
+        "location_code":516
+    },
+    {
+        "location":"Port-Harcourt, Elekahia",
+        "location_code":472
+    },
+    {
+        "location":"Anambra State, Orumba",
+        "location_code":52
+    },
+    {
+        "location":"Agege, Cement",
+        "location_code":7
+    },
+    {
+        "location":"Oyo State, Igbo Ora",
+        "location_code":452
+    },
+    {
+        "location":"Surulere, Aguda \/ Surulere",
+        "location_code":512
+    },
+    {
+        "location":"Osun State, Irewole",
+        "location_code":440
+    },
+    {
+        "location":"Egbeda, Oluwo",
+        "location_code":107
+    },
+    {
+        "location":"Delta State, Burutu",
+        "location_code":85
+    },
+    {
+        "location":"Jiwa, Abuja",
+        "location_code":272
+    },
+    {
+        "location":"Ikeja, Airport Road \/ Ikeja",
+        "location_code":200
+    },
+    {
+        "location":"Garki 1, Area 3",
+        "location_code":125
+    },
+    {
+        "location":"Oshodi, Airport Road \/ Oshodi",
+        "location_code":429
+    },
+    {
+        "location":"Yaba, Fola Agoro",
+        "location_code":558
+    },
+    {
+        "location":"Oyo State, Ogbomosho South",
+        "location_code":458
+    },
+    {
+        "location":"Ibadan, Ajibode",
+        "location_code":151
+    },
+    {
+        "location":"Port-Harcourt, Rumuola",
+        "location_code":492
+    },
+    {
+        "location":"Amuwo-Odofin, Abule Ado",
+        "location_code":37
+    }
+]
