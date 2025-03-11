@@ -10,4 +10,4 @@ __pycache__/
 .qodo
 
 .ipynb_checkpoints
-./project/backend/model/price_prediction_model.pkl 
+./project/backend/model/price_prediction_model.pkl project/backend/model/price_prediction_model.pkl
