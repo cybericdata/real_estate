@@ -13,3 +13,4 @@ __pycache__/
 ./project/backend/model/price_prediction_model.pkl project/backend/model/price_prediction_model.pkl
 
 ./project/backend/model/chroma_db/
+project/backend/model/chroma_db/
